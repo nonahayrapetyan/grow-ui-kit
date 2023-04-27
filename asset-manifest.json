@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nonahayrapetyan/grow-ui-kit/static/js/main.53261392.js",
-    "index.html": "/nonahayrapetyan/grow-ui-kit/index.html",
-    "main.53261392.js.map": "/nonahayrapetyan/grow-ui-kit/static/js/main.53261392.js.map"
+    "main.js": "/grow-ui-kit/static/js/main.ac834b13.js",
+    "index.html": "/grow-ui-kit/index.html",
+    "main.ac834b13.js.map": "/grow-ui-kit/static/js/main.ac834b13.js.map"
   },
   "entrypoints": [
-    "static/js/main.53261392.js"
+    "static/js/main.ac834b13.js"
   ]
 }
